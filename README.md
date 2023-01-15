@@ -18,31 +18,37 @@ What we look for:
 
 - [Java](#java)
 - [Python](#python)
-    - [Django](#django)
 - [Terraform](#terraform)
-
 
 ## Java
 
-- [Spring Boot](https://github.com/spring-projects/spring-boot) - A popular **framework** for Java
-- [Spring Petclinic](https://github.com/spring-projects/spring-petclinic) - The **canonical example application** to learn Spring
-- [Apache Camel](https://github.com/apache/camel) - An integration **library**
+### Libraries
+
+- [Spring Boot](https://github.com/spring-projects/spring-boot) - A popular framework for Java
+- [Apache Camel](https://github.com/apache/camel) - An integration library
+
+### Applications
+
+- [Spring Petclinic](https://github.com/spring-projects/spring-petclinic) - The canonical example application to learn Spring
+- [OpenSearch](https://github.com/opensearch-project/OpenSearch) - A distributed, open source, RESTful search and analytics application
 
 [Find trending Java projects on GitHub](https://github.com/trending/java?since=daily)
 
 ## Python
 
-- [FastAPI](https://github.com/tiangolo/fastapi) - a **framework** for building APIs with Python
-- [Pydantic](https://github.com/pydantic/pydantic) - a data validation and settings management **library**
+### Libraries
+
+- [FastAPI](https://github.com/tiangolo/fastapi) - a framework for building APIs with Python
+- [Pydantic](https://github.com/pydantic/pydantic) - a data validation and settings management library
 
 [Find trending Python projects on GitHub](https://github.com/trending/python?since=daily)
 
-### Django
+### Applications (Django)
 
 End user applications which are implemented using Django.
 
-- [Netbox](https://github.com/netbox-community/netbox) - a network management **web application**
-- [Edx](https://github.com/openedx/edx-platform) - a **web application** for creating and delivering courses and online training
+- [Netbox](https://github.com/netbox-community/netbox) - a network management web application
+- [Edx](https://github.com/openedx/edx-platform) - a web application for creating and delivering courses and online training
 
 ## Terraform
 
