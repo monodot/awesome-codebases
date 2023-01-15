@@ -25,6 +25,7 @@ What we look for:
 ## Java
 
 - [Spring Boot](https://github.com/spring-projects/spring-boot) - A popular framework for Java
+- [Spring Petclinic](https://github.com/spring-projects/spring-petclinic) - The **canonical example application** to learn Spring
 
 [Find trending Java projects on GitHub](https://github.com/trending/java?since=daily)
 
