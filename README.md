@@ -1,8 +1,8 @@
 # Awesome Codebases [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of well-written and maintained codebases to learn from
+> A curated list of real world codebases to learn from
 
-Because we're always learning new things, let's build a list of high-quality, well-written codebases to learn from. These can come in useful for learning new languages, frameworks, and technologies.
+Because we're always learning new things, let's build a list of high-quality, real world codebases to learn from. These can come in useful for learning new languages, frameworks, and technologies.
 
 What we look for:
 
@@ -41,6 +41,7 @@ What we look for:
 End user applications which are implemented using Django.
 
 - [Netbox](https://github.com/netbox-community/netbox) - a network management **web application**
+- [Edx](https://github.com/openedx/edx-platform) - a **web application** for creating and delivering courses and online training
 
 
 ## Terraform
