@@ -39,11 +39,16 @@ What we look for:
 ### Libraries
 
 - [FastAPI](https://github.com/tiangolo/fastapi) - a framework for building APIs with Python
-- [Pydantic](https://github.com/pydantic/pydantic) - a data validation and settings management library
+- [Pydantic](https://github.com/pydantic/pydantic) - a library for data validation
+- [Rich](https://github.com/Textualize/rich) - a library for rich text and beautiful formatting in the terminal
 
 [Find trending Python projects on GitHub](https://github.com/trending/python?since=daily)
 
-### Applications (Django)
+### CLI applications
+
+- [httpx](https://github.com/encode/httpx) - an HTTP client for Python, which can also be run as a CLI tool
+
+### Django web applications
 
 End user applications which are implemented using Django.
 
