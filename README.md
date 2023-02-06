@@ -2,7 +2,7 @@
 
 > A curated list of real world codebases to learn from
 
-Because we're always learning new things, let's build a list of high-quality, real world codebases to learn from. These can take the form of libraries, standalone applications or even code from training courses and books. Real codebases can be useful for learning new languages, frameworks, and technologies.
+Since we're always learning new things, let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
 
 What we look for:
 
