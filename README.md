@@ -27,6 +27,7 @@ What we look for:
 
 - [kubectl](https://github.com/kubernetes/kubectl) - The Kubernetes client
 - [flyctl](https://github.com/superfly/flyctl) - The client for fly.io
+- [k9s](https://github.com/derailed/k9s) - Rich CLI tool for managing Kubernetes clusters, uses [tview](https://github.com/rivo/tview)
 
 ## Java
 
