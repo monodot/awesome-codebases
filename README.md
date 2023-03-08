@@ -16,9 +16,17 @@ What we look for:
 
 ## Contents
 
+- [Go](#go)
 - [Java](#java)
 - [Python](#python)
 - [Terraform](#terraform)
+
+## Go
+
+### CLI tools
+
+- [kubectl](https://github.com/kubernetes/kubectl) - The Kubernetes client
+- [flyctl](https://github.com/superfly/flyctl) - The client for fly.io
 
 ## Java
 
