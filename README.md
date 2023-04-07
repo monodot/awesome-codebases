@@ -1,24 +1,27 @@
 # Awesome Codebases [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of real world codebases to learn from
+> A curated list of real world code and documentation to learn from
 
-Because we're always learning new things, let's build a list of high-quality, real world codebases to learn from. These can take the form of libraries, standalone applications or even code from training courses and books. Real codebases can be useful for learning new languages, frameworks, and technologies.
+Because we're always learning new things, let's build a list of high-quality, real world codebases to learn from. These can take the form of libraries, standalone applications or even code samples from training courses and books. Real codebases can be useful for learning new languages, frameworks, and technologies.
 
 What we look for:
 
-- Well-written code
-
+- Well-written code that follows the conventions of the language/framework
 - Tests (lots of them)
-
 - Good documentation
-
-- Maintained
+- Actively maintained
 
 ## Contents
 
+- [Documentation](#documentation)
 - [Java](#java)
 - [Python](#python)
+- [Shell (including bash)](#shell)
 - [Terraform](#terraform)
+
+## Documentation
+
+- [PostgreSQL](https://github.com/postgres/postgres) - Highly regarded as having excellent documentation
 
 ## Java
 
@@ -54,6 +57,13 @@ End user applications which are implemented using Django.
 
 - [Netbox](https://github.com/netbox-community/netbox) - a network management web application
 - [Edx](https://github.com/openedx/edx-platform) - a web application for creating and delivering courses and online training
+
+## Shell (including bash)
+
+### CLI tools
+
+- [rbenv](https://github.com/rbenv/rbenv) - a tool for managing Ruby versions
+- [nvm](https://github.com/nvm-sh/nvm) - a tool for managing Node.js versions
 
 ## Terraform
 
