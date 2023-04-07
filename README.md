@@ -2,7 +2,7 @@
 
 > A curated list of real world code and documentation to learn from
 
-Because we're always learning new things, let's build a list of high-quality, real world codebases to learn from. These can take the form of libraries, standalone applications or even code samples from training courses and books. Real codebases can be useful for learning new languages, frameworks, and technologies.
+Since we're always learning new things, let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
 
 What we look for:
 
@@ -14,6 +14,7 @@ What we look for:
 ## Contents
 
 - [Documentation](#documentation)
+- [Go](#go)
 - [Java](#java)
 - [Python](#python)
 - [Shell (including bash)](#shell)
@@ -22,6 +23,14 @@ What we look for:
 ## Documentation
 
 - [PostgreSQL](https://github.com/postgres/postgres) - Highly regarded as having excellent documentation
+
+## Go
+
+### CLI tools
+
+- [kubectl](https://github.com/kubernetes/kubectl) - The Kubernetes client
+- [flyctl](https://github.com/superfly/flyctl) - The client for fly.io
+- [k9s](https://github.com/derailed/k9s) - Rich CLI tool for managing Kubernetes clusters, uses [tview](https://github.com/rivo/tview)
 
 ## Java
 
