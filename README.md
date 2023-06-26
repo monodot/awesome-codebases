@@ -56,9 +56,10 @@ What we look for:
 
 [Find trending Python projects on GitHub](https://github.com/trending/python?since=daily)
 
-### CLI applications
+### Standalone applications
 
 - [httpx](https://github.com/encode/httpx) - an HTTP client for Python, which can also be run as a CLI tool
+- [spack](https://github.com/spack/spack) - a universal package manager
 
 ### Django web applications
 
