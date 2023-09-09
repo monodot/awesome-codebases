@@ -68,6 +68,12 @@ End user applications which are implemented using Django.
 - [Netbox](https://github.com/netbox-community/netbox) - a network management web application
 - [Edx](https://github.com/openedx/edx-platform) - a web application for creating and delivering courses and online training
 
+### Flask applications
+
+Applications that use the Flask framework:
+
+- [Apache Superset](https://github.com/apache/superset) - a data exploration and visualisation platform
+
 ## Shell (including bash)
 
 ### CLI tools
