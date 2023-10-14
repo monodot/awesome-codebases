@@ -4,8 +4,9 @@
 
 Since we're always learning new things, let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
 
-What we look for:
+The ideal projects for this repo are:
 
+- Well-known projects or websites which you might already be using every day 
 - Well-written code that follows the conventions of the language/framework
 - Tests (lots of them)
 - Good documentation
@@ -16,6 +17,7 @@ What we look for:
 - [Documentation](#documentation)
 - [Go](#go)
 - [Java](#java)
+- [JavaScript](#javascript)
 - [Python](#python)
 - [Shell (including bash)](#shell)
 - [Terraform](#terraform)
@@ -45,6 +47,12 @@ What we look for:
 - [OpenSearch](https://github.com/opensearch-project/OpenSearch) - A distributed, open source, RESTful search and analytics application
 
 [Find trending Java projects on GitHub](https://github.com/trending/java?since=daily)
+
+## JavaScript
+
+### Vue
+
+- [GitLab](https://github.com/gitlabhq/gitlabhq) - The CE (Commmunity Edition) of GitLab. Uses Ruby for the backend.
 
 ## Python
 
