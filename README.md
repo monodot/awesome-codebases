@@ -2,7 +2,9 @@
 
 > A curated list of real world code and documentation to learn from
 
-Since we're always learning new things, let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
+**I don't know about you, but when I'm learning new things, I like to look at existing codebases -- to see how they do it.**
+
+So let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
 
 The ideal projects for this repo are:
 
@@ -53,6 +55,7 @@ The ideal projects for this repo are:
 ### Vue
 
 - [GitLab](https://github.com/gitlabhq/gitlabhq) - The CE (Commmunity Edition) of GitLab. Uses Ruby for the backend.
+- [n8n](https://github.com/n8n-io/n8n) - Tool for automating tasks and data integration between apps. (Not strictly open-source, but you can still view the code.)
 
 ## Python
 
