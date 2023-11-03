@@ -26,7 +26,10 @@ The ideal projects for this repo are:
 
 ## Documentation
 
+These projects have great docs:
+
 - [PostgreSQL](https://github.com/postgres/postgres) - Highly regarded as having excellent documentation
+- [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 
 ## Go
 
