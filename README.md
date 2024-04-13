@@ -77,10 +77,11 @@ These projects have great docs:
 
 ### Django web applications
 
-End user applications which are implemented using Django.
+End user applications which are implemented using Django:
 
-- [Netbox](https://github.com/netbox-community/netbox) - a network management web application
 - [Edx](https://github.com/openedx/edx-platform) - a web application for creating and delivering courses and online training
+- [Netbox](https://github.com/netbox-community/netbox) - a network management web application
+- [Sentry](https://github.com/getsentry/sentry) - error-tracking platform
 
 ### Flask applications
 
