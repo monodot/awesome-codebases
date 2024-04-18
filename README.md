@@ -4,9 +4,9 @@
 
 **I don't know about you, but when I'm learning new things, I like to look at existing codebases -- to see how they do it.**
 
-So let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to code from training courses and books. By studying real codebases, it can become easier to put theory into practice, and learn new languages, frameworks, and security practices.
+So let's build a list of high-quality, real world codebases to learn from -- from libraries and standalone applications, to sample code from training courses and books. By studying real codebases, it becomes easier to put theory into practice, and learn new languages, frameworks, and best practices.
 
-The ideal projects for this repo are:
+The ideal projects for this repo have some or all of the following characteristics:
 
 - Well-known projects or websites which you might already be using every day 
 - Well-written code that follows the conventions of the language/framework
@@ -82,6 +82,7 @@ End user applications which are implemented using Django:
 - [Edx](https://github.com/openedx/edx-platform) - a web application for creating and delivering courses and online training
 - [Netbox](https://github.com/netbox-community/netbox) - a network management web application
 - [Sentry](https://github.com/getsentry/sentry) - error-tracking platform
+- [Wagtail](https://github.com/wagtail/wagtail) - Django-based CMS
 
 ### Flask applications
 
