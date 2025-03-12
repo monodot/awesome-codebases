@@ -26,10 +26,11 @@ The ideal projects for this repo have some or all of the following characteristi
 
 ## Documentation
 
-These projects have great docs:
+These projects and services have great docs:
 
 - [PostgreSQL](https://github.com/postgres/postgres) - Highly regarded as having excellent documentation
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
+- [GitHub](https://github.com/github/docs)
 
 ## Go
 
